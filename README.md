@@ -18,7 +18,7 @@
     
 ```bash
     $ git clone https://github.com/klangner/xblock-text-activity
-    $ pip -r requirements.txt
+    $ pip install -r requirements.txt
 ```
 
 4. Run installed XBlock Workbench.

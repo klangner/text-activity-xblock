@@ -1,0 +1,3 @@
+function TextActivityBlock(runtime, element) {
+
+}
