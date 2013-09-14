@@ -1,0 +1,28 @@
+.puzzle-block {
+}
+
+.puzzle-module{
+	background-color: black;
+	position: relative;
+}
+
+.puzzle-piece {
+    border: 1px solid black;
+    z-index: 1;
+    cursor: pointer;
+    position: absolute;
+	background-repeat: no-repeat;          
+}
+
+.puzzle-buttons{
+	padding-top:10px;
+}
+
+.puzzle-piece-selected{
+	border: 1px solid blue;
+	z-index: 2;
+	opacity:0.5;
+}
+
+.puzzle-feedback{
+}
